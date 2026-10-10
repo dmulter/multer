@@ -18,7 +18,10 @@ name = 'pinterest'
 url = 'https://www.pinterest.com/pedestrian_poet/'
 +++
 
-Welcome to Monica's people page!
+Welcome to Monica's people page! Some of you might know me by my pen name
+Pedestrian Poet, or as the person behind the Bucket List Instagram accounts.
+All my old blog posts are now on this new website. Look through all the posts
+for my author contributions, or click the link below to only see my posts.
 
 [Read all my posts]({{< ref "/authors/monica-multer" >}}).
 
