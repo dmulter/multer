@@ -18,6 +18,9 @@ name = 'strava'
 url = 'https://www.strava.com/athletes/29354660'
 +++
 
-Welcome to Laini's people page!
+Welcome to Laini's people page! If you enjoy a bit of humor with your cycling,
+you'll definitely want to check out my alternate reality persona on Instagram,
+better known as @lainibones. Also stay tuned with the women's pro team over at
+[Aegis Cycling](https://www.aegiscyclingfoundation.com) for my more serious side.
 
 {{< page_social_icons >}}

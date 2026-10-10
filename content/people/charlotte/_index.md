@@ -14,7 +14,9 @@ name = 'facebook'
 url = 'https://www.facebook.com/cmulter/'
 +++
 
-Welcome to Charlotte's people page!
+Welcome to Charlotte's people page! I kind of like hiking, so enjoy the tons
+of posts from my adventures everywhere you can find a beautiful path in the
+woods or mountains.
 
 [Read all my posts]({{< ref "/authors/charlotte-multer" >}}).
 
