@@ -5,6 +5,11 @@ theme = "PaperMod"
 mainSections = ["posts"]
 #ignoreFiles = [ "posts/2008/" ]
 
+[params]
+disableSpecial1stPost = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+
 [taxonomies]
 tag = "tags"
 author = "authors"
