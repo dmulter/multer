@@ -22,11 +22,13 @@ name = 'github'
 url = 'https://github.com/dmulter'
 +++
 
-Hello, and welcome to my website. I live in Wheat Ridge, CO with my fabulous
-wife Charlotte. My son Gabe and his wife Laini live nearby in Golden, CO. My
-daughter lives in Felton, CA close to where Charlotte and I raised our family
-in Santa Cruz, CA. My oldest son Nick is no longer with us, and we miss him
-terribly every day.
+Hello, and welcome to my website. I live in Wheat Ridge, Colorado with my
+fabulous wife [Charlotte](/people/charlotte/). My son [Gabe](/people/gabe/)
+and his wife [Laini](/people/laini) live nearby in Golden. My
+daughter [Monica](/people/monica/) lives in Felton, CA close to where
+Charlotte and I raised our family in Santa Cruz, CA. My oldest
+son [Nick](/people/nick) is no longer with us, and we miss him terribly every
+day.
 
 I grew up in New York, though my high school years were spent in Hollywood, FL
 much to my dismay. I was an early computer software guy who received his BS in
