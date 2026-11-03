@@ -15,7 +15,7 @@ had lost track of. Their ongoing efforts to stay connected with other family
 members plays a huge part in keeping this information up to date. The next
 difficult step is trying to track down Max's ancestors in Eastern Europe.
 
-I have to also give a big thanks to [Bea](https://www.wikitree.com/wiki/Valentine-5684), David, and [Karen](https://www.wikitree.com/wiki/Hoyem-29)
+I have to also give a big thanks to [Bea](https://www.wikitree.com/wiki/Valentine-5684), [David](https://www.wikitree.com/wiki/Zendels-2), and [Karen](https://www.wikitree.com/wiki/Hoyem-29)
 for their contributions connecting the Valentines, Zelmanows, and Hoyems.
 
 Another big area is trying to connect to Multers that appear to be related. We
