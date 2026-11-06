@@ -21,7 +21,8 @@ for their contributions connecting the Valentines, Zelmanows, and Hoyems.
 Another big area is trying to connect to Multers that appear to be related. We
 need help finding the connection between the Solomon Multer family and how
 they may be related to Max Multer and his ancestors. Thanks to Phyllis for all
-her great information.
+her great information. Be sure to check out more [family tree mysteries](https://www.wikitree.com/wiki/Space:Multer_Family_Mysteries)
+I'm researching.
 
 Note that all this information is secure, free, and protects living person's
 privacy. Also be aware that all copyrights apply. Do not duplicate and/or
